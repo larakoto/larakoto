@@ -3,7 +3,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
   Student at **42 Antananarivo**  
   Passionate about **systems, networks and cybersecurity**  
