@@ -87,4 +87,4 @@ LinkedIn
 
 ---
 
-⭐ From larakoto(https://github.com/TON_PSEUDO)
+From larakoto(https://github.com/TON_PSEUDO)
