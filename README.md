@@ -5,19 +5,19 @@
 
 ## 👨‍💻 About Me
 
-🎓 Student at **42 Antananarivo**  
-💻 Passionate about **systems, networks and cybersecurity**  
-⚙️ Interested in **DevOps, automation and infrastructure**  
-🔍 Currently improving my skills in **C, networking and backend development**
+  Student at **42 Antananarivo**  
+  Passionate about **systems, networks and cybersecurity**  
+  Interested in **DevOps, automation and infrastructure**  
+  Currently improving my skills in **C, networking and backend development**
 
-- 🌱 Currently learning **Systems Programming & Network Engineering**
-- 🐧 Comfortable working in **Linux environments**
-- 🛠 Interested in **Docker, infrastructure and automation**
-- 🎯 Goal: evolve in **Cybersecurity / DevOps**
+- Currently learning **Systems Programming & Network Engineering**
+- Comfortable working in **Linux environments**
+- Interested in **Docker, infrastructure and automation**
+- Goal: evolve in **Cybersecurity / DevOps**
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -40,39 +40,39 @@
 
 ---
 
-## 📚 42 Projects
+## 42 Projects
 
-### 🖥 Minishell
+### Minishell
 > Reproduction d'un shell minimaliste en **C**  
 Parsing, pipes, redirections et gestion des signaux.
 
-### 🎮 cub3D
+### cub3D
 > Mini moteur graphique en **C** basé sur le **raycasting**
 
-### 🐳 Inception
+### Inception
 > Infrastructure de services avec **Docker**  
 NGINX, WordPress et MariaDB dans des conteneurs isolés.
 
-### 💬 IRC Server
+### IRC Server
 > Développement d’un **serveur IRC en C++**  
 Gestion des connexions client et implémentation du protocole IRC.
 
-### 🌐 ft_transcendence
+### ft_transcendence
 > Application web interactive avec **Next.js**
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nary14&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nary14&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=larakoto&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larakoto&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Cisco Networking Academy
   - Python Essentials 1
@@ -81,22 +81,10 @@ Gestion des connexions client et implémentation du protocole IRC.
 
 ---
 
-## 🌍 Languages
 
-- Malagasy 🇲🇬
-- French 🇫🇷
-- English 🇬🇧
+LinkedIn  
+[https://linkedin.com/Rakotonanandrasana Landry](https://www.linkedin.com/in/rakotonandrasana-landry-75a245294/)
 
 ---
 
-## 📫 Contact
-
-📧 Email: rakoutounandrasana@gmail.com  
-📍 Antananarivo, Madagascar  
-
-💼 LinkedIn  
-https://linkedin.com/
-
----
-
-⭐ From [TON_PSEUDO](https://github.com/TON_PSEUDO)
+⭐ From larakoto(https://github.com/TON_PSEUDO)
