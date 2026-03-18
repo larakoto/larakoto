@@ -5,22 +5,21 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:       # <-- permet au workflow de push
-      contents: write
 
     steps:
-      - uses: actions/checkout@v3
-
       - uses: Platane/snk@v3
         with:
           github_user_name: larakoto
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v4  # <-- passe à v4 pour Node.js 24
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
