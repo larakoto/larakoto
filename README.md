@@ -1,19 +1,18 @@
 <h1 align="center">Rakotonandrasana Landry</h1>
-<h3 align="center">Student at 42 Antananarivo | Networks → Development | DevOps & Automation</h3>
+<h3 align="center">Student at 42 Antananarivo | Systems • Networks • DevOps • Cybersecurity</h3>
 
 <p align="center">
-Systems • Networking • Linux • DevOps • Cybersecurity
+Linux • Networking • C • DevOps • Automation • Cybersecurity
 </p>
 
 ---
 
 ## About Me
 
-Student at **42 Antananarivo** focused on **systems programming, networking and infrastructure**.
+I am a **student at 42 Antananarivo** focused on **systems programming, networking, and infrastructure**.  
+I work mainly in **Linux environments**, enjoy building low-level programs in **C**, experimenting with **network architectures**, and exploring **DevOps automation and containerized infrastructure**.  
 
-I work mainly in **Linux environments** and enjoy building low-level programs in **C**, experimenting with **network architecture**, and exploring **DevOps automation and containerized infrastructure**.
-
-My long-term goal is to work in **DevOps engineering or cybersecurity**, focusing on scalable and secure systems.
+My long-term goal is to work in **DevOps engineering or cybersecurity**, building scalable and secure systems.
 
 ---
 
@@ -47,45 +46,29 @@ My long-term goal is to work in **DevOps engineering or cybersecurity**, focusin
 ## 42 Projects
 
 ### Minishell
-
-Minimal Unix shell written in **C**
-
-Features:
-
-- command parsing
-- pipes
-- redirections
-- signal handling
+Minimal Unix shell written in **C** with:
+- Command parsing
+- Pipes & redirections
+- Signal handling
 
 ### cub3D
-
-Simple **raycasting 3D engine** written in C inspired by early FPS engines.
+Simple **raycasting 3D engine** written in **C**, inspired by early FPS engines.
 
 ### Inception
-
-Infrastructure project using **Docker containers**
-
-Services:
-
+**Docker-based infrastructure project** with:
 - NGINX
 - WordPress
-- MariaDB
-
-Each service runs in an isolated container.
+- MariaDB  
+All services run in isolated containers.
 
 ### IRC Server
-
-Implementation of an **IRC server in C++98**
-
-Features:
-
-- multiple clients
-- channel management
+**IRC server implementation in C++98** supporting:
+- Multiple clients
+- Channel management
 - IRC protocol commands
 
 ### ft_transcendence
-
-Collaborative **Next.js web application** project with interactive gameplay and real-time features.
+Collaborative **Next.js web application** with interactive gameplay and real-time features.
 
 ---
 
@@ -106,18 +89,9 @@ Collaborative **Next.js web application** project with interactive gameplay and 
 
 ---
 
-## Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/larakoto/larakoto/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 ## Certifications
 
-Cisco Networking Academy
-
+**Cisco Networking Academy**
 - Python Essentials 1  
 - JavaScript Essentials 1  
 - Getting Started with Cisco Packet Tracer  
@@ -126,8 +100,5 @@ Cisco Networking Academy
 
 ## Contact
 
-LinkedIn  
-https://www.linkedin.com/in/rakotonandrasana-landry-75a245294/
-
-GitHub  
-https://github.com/larakoto
+**LinkedIn:** [Rakotonandrasana Landry](https://www.linkedin.com/in/rakotonandrasana-landry-75a245294/)  
+**GitHub:** [larakoto](https://github.com/larakoto)
