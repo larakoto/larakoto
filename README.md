@@ -1,74 +1,71 @@
 <h1 align="center">Rakotonandrasana Landry</h1>
-<h3 align="center">Student at 42 Antananarivo | Systems • Networks • DevOps • Cybersecurity</h3>
+<h3 align="center">Software Developer at 42 Antananarivo | Full-Stack Web • Automation • AI Solutions</h3>
 
 <p align="center">
-Linux • Networking • C • DevOps • Automation • Cybersecurity
+Python • TypeScript • Next.js • C/C++ • API Integration • Automation • Linux
 </p>
 
 ---
 
 ## About Me
 
-I am a **student at 42 Antananarivo** focused on **systems programming, networking, and infrastructure**.  
-I work mainly in **Linux environments**, enjoy building low-level programs in **C**, experimenting with **network architectures**, and exploring **DevOps automation and containerized infrastructure**.  
+I am a **software developer trained at 42 Antananarivo**, driven by problem-solving and building reliable, user-focused solutions.  
+With a strong foundation in **low-level programming (C/C++) and Linux environments**, I focus on **full-stack web development (Next.js, TypeScript, NestJS)**, **workflow automation**, and **AI integration (LLM, RAG)**.
 
-My long-term goal is to work in **DevOps engineering or cybersecurity**, building scalable and secure systems.
+I enjoy turning complex technical challenges into clean, well-documented, and maintainable tools for real-world use.
 
 ---
 
 ## Tech Stack
 
-### Programming
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Web
+### Web & Backend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Systems & Tools
-
+### Systems, DevOps & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Networking
-
-- TCP/IP
-- Network troubleshooting
-- Cisco Packet Tracer
-- Basic firewall and routing
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 42 Projects
+## Featured Projects
 
-### Minishell
-Minimal Unix shell written in **C** with:
-- Command parsing
-- Pipes & redirections
-- Signal handling
-
-### cub3D
-Simple **raycasting 3D engine** written in **C**, inspired by early FPS engines.
+### ft_transcendence — Full-Stack Web Application
+Collaborative team project where I acted as **Web Designer & Lead Frontend Developer**:
+- **UI/UX & Frontend:** Built role-based dashboards and a reusable design system using **Next.js, React, TypeScript, and TailwindCSS**.
+- **Core Integrations:** Implemented secure authentication (**JWT, OAuth, 2FA**), online payments (**Stripe**), and real-time chat (**WebSockets**) connected to a **NestJS / PostgreSQL** backend.
 
 ### Inception
-**Docker-based infrastructure project** with:
-- NGINX
-- WordPress
-- MariaDB  
-All services run in isolated containers.
+**Docker-based infrastructure project** orchestrating isolated services:
+- NGINX, WordPress, and MariaDB configured via Docker Compose and custom Dockerfiles.
 
 ### IRC Server
-**IRC server implementation in C++98** supporting:
-- Multiple clients
-- Channel management
-- IRC protocol commands
+**Custom IRC server written in C++98** supporting:
+- Multi-client non-blocking I/O, channel management, and standard IRC protocol commands.
 
-### ft_transcendence
-Collaborative **Next.js web application** with interactive gameplay and real-time features.
+### Minishell
+Minimal Unix shell written in **C** featuring:
+- Command parsing, environment variable management, pipes, redirections, and signal handling.
+
+---
+
+## Certifications
+
+**Cisco Networking Academy**
+- Python Essentials 1  
+- JavaScript Essentials 1  
+- Getting Started with Cisco Packet Tracer  
 
 ---
 
@@ -86,15 +83,6 @@ Collaborative **Next.js web application** with interactive gameplay and real-tim
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=larakoto&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-## Certifications
-
-**Cisco Networking Academy**
-- Python Essentials 1  
-- JavaScript Essentials 1  
-- Getting Started with Cisco Packet Tracer  
 
 ---
 
